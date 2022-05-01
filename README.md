@@ -9,7 +9,8 @@ Glove to translate sign language to text . Arduino code.
 5. Wires
 6. Glove
 
-### What we did?
+### Features
 
 - Created our own sign language gestures.
 - The glove connects to a mobile app via Bluetooth.
+- The app displays the sign gesture coverted to text.
