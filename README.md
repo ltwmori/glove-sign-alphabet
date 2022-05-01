@@ -1,7 +1,7 @@
 # glove-sign-alphabet
 Glove to translate sign language to text . Arduino code.
 
-###Materials and Methods 
+### Materials and Methods 
 1. Arduino Nano Board
 2. HC-05 Bluetooth Module (to send outcome value to the Android app)
 3. 5 Flex Sensors (to measure the finger movements)
@@ -9,6 +9,7 @@ Glove to translate sign language to text . Arduino code.
 5. Wires
 6. Glove
 
+### What we did?
 
 - Created our own sign language gestures.
 - The glove connects to a mobile app via Bluetooth.
